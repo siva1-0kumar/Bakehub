@@ -61,4 +61,4 @@ Bakehub is a management system designed to help small bakehouses manage their pr
 The `sample_data.sql` file contains initial data for the tables.
 
 ## ER Diagram
-[bakehub.png]()
+[bakehub.png](bakehub.png)
